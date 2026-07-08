@@ -179,14 +179,7 @@ streamlit run app.py
 
 ## 📷 Application Preview
 
-> Add screenshots of your Streamlit application here.
-
-Example:
-
-- Home Page
-- Prediction Page
-- SHAP Explanation
-- About Page
+![Prediction Page](images/shot.png)
 
 ---
 
