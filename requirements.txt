@@ -1,5 +1,11 @@
-streamlit
-joblib
-scikit-learn
-pandas
-numpy
+Python
+Pandas
+NumPy
+Scikit-learn
+LightGBM
+XGBoost
+SHAP
+Plotly
+Matplotlib
+Streamlit
+Joblib

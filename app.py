@@ -273,7 +273,7 @@ with st.sidebar:
     logo_col, text_col = st.columns([1, 3])
 
     with logo_col:
-        st.image("logo.jfif", width=70)
+        st.image("images/logo.jfif", width=70)
 
     with text_col:
         st.markdown("""
