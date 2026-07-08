@@ -106,10 +106,6 @@ Predicts an individual's risk of Respiratory based on patient information.
 
 Displays SHAP explanations showing how each feature influenced the prediction.
 
-### ℹ️ About
-
-Provides project information, methodology, and model details.
-
 ---
 
 ## 📁 Project Structure
