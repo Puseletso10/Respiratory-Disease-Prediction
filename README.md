@@ -1,4 +1,4 @@
-# 🫁 Respiratory Disease Risk Prediction
+# Respiratory Disease Risk Prediction
 
 ## 📌 Project Overview
 
