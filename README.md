@@ -10,7 +10,8 @@ The project demonstrates an end-to-end machine learning workflow, from data prep
 
 ## 🎯 Objectives
 
-- Predict the risk of Respiratory Disease in patients using synthetic  Tuberculosis (TB) dataset .
+- Predict the risk of Respiratory Disease in patients using synthetic Tuberculosis (TB) dataset .
+- Merge TB sythetic data with air quality data
 - Identify the most influential risk factors affecting predictions.
 - Provide interpretable predictions using SHAP.
 - Deploy an interactive web application for end users.
@@ -120,6 +121,9 @@ Respiratory-Disease-Prediction/
 │   ├── Royalwood_Cancer_Center_Synthetic_Respiratory_Data.csv
 │   └── SouthernAfrica_Sentinel5P.csv
 │
+├── images/
+│   ├── shot.PNG
+│   └── logo.JFIF
 ├── models/
 │   ├── best_model.pkl
 │   └── shap_explainer.pkl
@@ -179,7 +183,7 @@ streamlit run app.py
 
 ## 📷 Application Preview
 
-![Prediction Page](images/shot.png)
+  ![](images/shot.PNG)
 
 ---
 
